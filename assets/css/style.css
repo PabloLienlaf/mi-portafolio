@@ -8,6 +8,10 @@ p, h5 {
   font-weight: 400;
 }
 
+.logo {
+  font-family:  'Righteous', sans-serif;
+}
+
 header {
   background-image: url('../img/bg_hero.png');
   background-repeat: no-repeat;
@@ -15,9 +19,11 @@ header {
   background-position: center;
   padding-bottom: 10rem;
 }
+
 .sombra {
   text-shadow: 0.06em 0.06em 0.125em #707070;
 }
+
 .bg-orange {
   background-color: #FF5733;
 }
