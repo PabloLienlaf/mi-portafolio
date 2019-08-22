@@ -32,3 +32,8 @@ hr {
   max-width: 70%;
   background-color: #FF5733;
 }
+@media (max-width: 768px) {
+  header {
+    background-position: left;
+  }
+}
