@@ -36,4 +36,7 @@ hr {
   header {
     background-position: left;
   }
+  footer {
+    text-align: center;
+  }
 }
